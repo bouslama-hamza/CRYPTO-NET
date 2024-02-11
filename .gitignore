@@ -1,0 +1,4 @@
+node_modules
+app/src/assets/data
+app/src/assets/model
+app/src/assets/tfjs_model
